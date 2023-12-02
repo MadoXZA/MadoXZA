@@ -13,7 +13,7 @@
 
 # <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I am a 27 year old Software Engineering Student [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development.**
-- **I reside in 
+- **I reside in 🇿🇦 - Republic of South Africa
 - **I enjoy Fishing, Airsoft and when I can hunting. Nature is my calming enviroment.**
 - **I play games in my free time and stream on twitch when I have the oppertunity to.**
 - **`Favourite Quote`: "Don't let your loyalty become slavery. If the don't appreciate what you bring to the table. Let them eat alone." - Unknown**
