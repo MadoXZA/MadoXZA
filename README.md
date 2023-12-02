@@ -6,10 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/timothyklose" target="blank"><img src="https://img.shields.io/twitter/follow/timothyklose?logo=twitter&style=for-the-badge" alt="timothyklose" /></a> </p>
 
-# Gaming Related
+# <b>`Gaming Related 🎮`</b> 
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ivemadox/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/madoxza)
+
+# <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+- **I am a 27 year old Software Engineering Student [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development.**
+- **I reside in 
+- **I enjoy Fishing, Airsoft and when I can hunting. Nature is my calming enviroment.**
+- **I play games in my free time and stream on twitch when I have the oppertunity to.**
+- **`Favourite Quote`: "Don't let your loyalty become slavery. If the don't appreciate what you bring to the table. Let them eat alone." - Unknown**
+- - **For inquiries or opportunities, please send me an [e-mail](timklo15@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+# My Stats 📊
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=madoxza&show_icons=true&theme=shadow_green">
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madoxza&layout=compact">
