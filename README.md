@@ -16,7 +16,7 @@
 - **I reside in 🇿🇦 - Republic of South Africa**
 - **I enjoy Fishing 🎣, Airsoft 🔫, I am interisted in golf ⛳, cricket 🏏 and Rugby 🏉. Nature is my calming enviroment.**
 - **I play games in my free time and stream on twitch when I can.**
-- **`Favourite Quote`: "Don't let your loyalty become slavery. If they don't appreciate what you bring to the table. Let them eat alone." - Unknown**
+- **`Favourite Quote:` "Don't let your loyalty become slavery. If they don't appreciate what you bring to the table. Let them eat alone." - Unknown**
 - **For inquiries or opportunities, please send me an [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=timklo15@gmail.com&su=SUBJECT&body=BODY)**
 
 # <b align="left">`Connect with me:`</b>
