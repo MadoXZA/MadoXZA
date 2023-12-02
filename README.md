@@ -1,6 +1,6 @@
-![MasterHead](https://i.pinimg.com/736x/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.jpg)]
+![Header](https://user-images.githubusercontent.com/513929/53929982-e5497700-404c-11e9-8393-dece0b196c98.png)
 <h1 align="center">Hi 👋, I'm Timothy</h1>
-<h3 align="center">I am a Student studying Full Stack Software Engineer but looking at specializing in Back End. I am studying SE with ALX</h3>
+<h3 align="center">I am a Student studying Full Stack Software Engineer but looking at specializing in Back End. I am studying with ALX Africa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madoxza&label=Profile%20views&color=0e75b6&style=flat" alt="madoxza" /> </p>
 
