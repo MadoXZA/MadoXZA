@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/513929/53929982-e5497700-404c-11e9-8393-dece0b196c98.png)
 <h1 align="center">Hi 👋, I'm Timothy</h1>
-<h3 align="center">I am a Full Stack Software Engineering Student, looking at specializing in Back-End.</h3>
+<h3 align="center">I am a Full Stack Software Engineering Student, looking at specializing in Back-End development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madoxza&label=Profile%20views&color=0e75b6&style=flat" alt="madoxza" /> </p>
 
@@ -12,7 +12,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/madoxza)
 
 # <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I am a 27 year old Software Engineering Student [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development.**
+- **I am a 27 year old Software Engineering Student [ALX Africa](https://www.alxafrica.com/about/) looking at specializing in back-end development.**
 - **I reside in 🇿🇦 - Republic of South Africa**
 - **I enjoy Fishing, Airsoft and when I can hunting. Nature is my calming enviroment.**
 - **I play games in my free time and stream on twitch when I have the oppertunity to.**
