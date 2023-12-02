@@ -11,7 +11,7 @@
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ivemadox/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/madoxza)
 
-# <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+# <b>`Get too know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I am a 27 year old Software Engineering Student [ALX Africa](https://www.alxafrica.com/about/) looking at specializing in back-end development.**
 - **I reside in 🇿🇦 - Republic of South Africa**
 - **I enjoy Fishing 🎣, Airsoft 🔫, I am interisted in golf ⛳, cricket 🏏 and Rugby 🏉. Nature is my calming enviroment.**
