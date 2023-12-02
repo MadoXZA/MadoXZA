@@ -31,5 +31,5 @@
 
 # <b>`My Stats 📊`</b>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=madoxza&show_icons=true&theme=shadow_green">
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madoxza&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=madoxza&show_icons=true&theme=shadow_green">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madoxza&layout=compact">
