@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.jpg)]
+![MasterHead](https://i.pinimg.com/736x/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.jpg)]
 <h1 align="center">Hi 👋, I'm Timothy</h1>
 <h3 align="center">I am a Student studying Full Stack Software Engineer but looking at specializing in Back End. I am studying SE with ALX</h3>
 
